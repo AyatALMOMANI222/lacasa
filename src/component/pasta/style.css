@@ -1,0 +1,24 @@
+.alll{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    box-shadow: 0px 0px 7px 7px rgb(133, 133, 133);
+
+}
+
+.imgg{
+    width: 300px;
+    height: 300px;
+}
+.allimg{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}

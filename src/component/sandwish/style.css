@@ -1,0 +1,12 @@
+.san{
+    display: flex;
+    flex-direction: row;
+    margin-left: 80px;
+    margin-right: 160px;
+    margin-top: 90px;
+}
+.mg{
+    width: 200px;
+    height: 200px;
+
+}

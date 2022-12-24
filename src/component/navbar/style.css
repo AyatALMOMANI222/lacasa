@@ -1,0 +1,20 @@
+.navv{
+    /* margin-top: px; */
+    /* margin-left: 50%; */
+   padding: 20px;
+    flex-direction: row;
+   /* margin-bottom: 10px; */
+ background-color: rgb(221, 163, 55);
+    font-style: italic;
+    font-weight: bolder;
+
+  
+}
+.navv a{
+color: rgb(255, 255, 255);
+font-size: larger;
+}
+ .l{
+    margin-right: 20px;
+    text-decoration: none;
+}
