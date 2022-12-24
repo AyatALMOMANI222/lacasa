@@ -24,9 +24,6 @@ const Homee = () => {
         <h1>La Casa Italino</h1>
         <h4>Best Quality and Tasty Food point</h4>
 
-        <h4>
-          <a>Menu</a>
-        </h4>
         <div className="contack">
           <a href="https://web.facebook.com/lacasazarqa">
             <FacebookSharpIcon />
